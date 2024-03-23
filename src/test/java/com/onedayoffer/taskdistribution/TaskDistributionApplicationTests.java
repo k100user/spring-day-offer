@@ -17,7 +17,7 @@ import java.util.ArrayList;
 @AutoConfigureMockMvc
 class TaskDistributionApplicationTests {
 
-	@Autowired
+	@Autowired //
 	private MockMvc mockMvc;
 
 	@Test
